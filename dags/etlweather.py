@@ -9,6 +9,7 @@ import json
 # Minsk coordinates
 LATITUDE = '53.893009'
 LONGITUDE = '27.567444'
+# Credentials
 POSTGRES_CONNECTION_ID = 'postgres_default'
 API_CONNECTION_ID = 'open_meteo_api'
 
